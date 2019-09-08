@@ -2,7 +2,7 @@
  Introduction to HTML5 and Global Attributes
  
 # Technologies
- 1. HTML
+ 1. HTML5
  
 # Editor
  1. Visual Studio Code
